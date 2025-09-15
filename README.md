@@ -112,9 +112,9 @@ const developer = {
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░  60.5%
+JavaScript   6 hrs 30 mins   ████████████░░░░░░░░  60.5%
 Python       4 hrs 15 mins   ████░░░░░░░░░░░░░░░░  20.6%
-TypeScript   2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░  13.3%
+PHP          2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░  13.3%
 HTML/CSS     1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░   5.6%
 ```
 <!--END_SECTION:waka-->
@@ -148,13 +148,6 @@ HTML/CSS     1 hr 10 mins    █░░░░░░░░░░░░░░░░
 </div>
 
 ---
-
-## 💡 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
 
 ---
 
