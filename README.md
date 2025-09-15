@@ -101,7 +101,7 @@ const developer = {
 
 <div align="center">
   
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilrajput0fficial&repo=project1&theme=tokyonight&hide_border=true)](https://github.com/sahilrajput0fficial/nsut-k-blog)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilrajput0fficial&repo=nsut-k-blog&theme=tokyonight&hide_border=true)](https://github.com/sahilrajput0fficial/nsut-k-blog)
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilrajput0fficial&repo=project2&theme=tokyonight&hide_border=true)](https://github.com/sahilrajput0fficial/sahil-rajput)
 
 </div>
