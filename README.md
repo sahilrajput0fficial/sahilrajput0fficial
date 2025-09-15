@@ -101,8 +101,8 @@ const developer = {
 
 <div align="center">
   
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilrajput0fficial&repo=project1&theme=tokyonight&hide_border=true)](https://github.com/sahilrajput0fficial/project1)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilrajput0fficial&repo=project2&theme=tokyonight&hide_border=true)](https://github.com/sahilrajput0fficial/project2)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilrajput0fficial&repo=project1&theme=tokyonight&hide_border=true)](https://github.com/sahilrajput0fficial/nsut-k-blogs)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilrajput0fficial&repo=project2&theme=tokyonight&hide_border=true)](https://github.com/sahilrajput0fficial/sahil-rajput)
 
 </div>
 
@@ -124,7 +124,7 @@ HTML/CSS     1 hr 10 mins    █░░░░░░░░░░░░░░░░
 ## 🌟 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/sahilrajput0fficial/awesome-project">
+  <a href="https://github.com/sahilrajput0fficial/nsut-k-blogs">
     <img src="https://img.shields.io/badge/🔥_Awesome_Project-Check_it_out-brightgreen?style=for-the-badge" alt="Awesome Project" />
   </a>
   <a href="https://github.com/sahilrajput0fficial/cool-library">
@@ -153,13 +153,6 @@ HTML/CSS     1 hr 10 mins    █░░░░░░░░░░░░░░░░
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sahilrajput0fficial/sahilrajput0fficial/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 
