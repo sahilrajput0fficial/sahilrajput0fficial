@@ -158,10 +158,10 @@ HTML/CSS     1 hr 10 mins    █░░░░░░░░░░░░░░░░
 ---
 
 ## 🐍 Contribution Snake
-
 <div align="center">
-  <img src="https://github.com/sahilrajput0fficial/sahilrajput0fficial/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sahilrajput0fficial/sahilrajput0fficial/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
 
 ---
 
