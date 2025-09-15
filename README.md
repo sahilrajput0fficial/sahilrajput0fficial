@@ -70,14 +70,19 @@ const developer = {
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahilrajput0fficial&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrajput0fficial&theme=vue&hide_border=true" alt="GitHub Streak" height="180px" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sahilrajput0fficial&theme=vue&hide_border=true" alt="GitHub Streak" height="180px" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrajput0fficial&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+
 
 ---
 
