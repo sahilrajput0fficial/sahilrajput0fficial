@@ -15,8 +15,8 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
-    location: "Your City, Country",
+    name: "Sahil Rajput",
+    location: "Delhi , india",
     current_focus: "Building awesome projects",
     learning: ["Cloud Architecture", "Machine Learning", "Web3"],
     interests: ["Open Source", "Tech Innovation", "Problem Solving"],
@@ -26,11 +26,11 @@ const developer = {
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 Currently working on **[Your Current Project]**
-- 🌱 Learning **[Technologies you're learning]**
+- 🔭 Currently working on **NSUT-K-Blogs**
+- 🌱 Learning **Node.js,React and Machine Learning**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, APIs, Databases**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **rajpootsahil51@gmail.com**
 - ⚡ Fun fact: **The first computer bug was an actual bug!**
 
 ---
