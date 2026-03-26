@@ -62,72 +62,6 @@ const developer = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilrajput0fficial&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrajput0fficial&tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrajput0fficial&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-
-</div>
-
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilrajput0fficial&theme=vue&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilrajput0fficial&theme=vue&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🎯 Recent Projects
-
-<div align="center">
-  
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilrajput0fficial&repo=nsut-k-blog&theme=vue&hide_border=true)](https://github.com/sahilrajput0fficial/nsut-k-blog)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilrajput0fficial&repo=sahil-rajput&theme=vue&hide_border=true)](https://github.com/sahilrajput0fficial/sahil-rajput)
-
-</div>
-
----
-
-## 💻 Coding Activity
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   6 hrs 30 mins   ████████████░░░░░░░░  60.5%
-Python       4 hrs 15 mins   ████░░░░░░░░░░░░░░░░  20.6%
-PHP          2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░  13.3%
-HTML/CSS     1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░   5.6%
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🌟 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/sahilrajput0fficial/nsut-k-blog">
-    <img src="https://img.shields.io/badge/🔥_Awesome_Project-Check_it_out-brightgreen?style=for-the-badge" alt="Awesome Project" />
-  </a>
-  <a href="https://github.com/sahilrajput0fficial/cool-library">
-    <img src="https://img.shields.io/badge/📚_Cool_Library-Explore-blue?style=for-the-badge" alt="Cool Library" />
-  </a>
-</div>
-
 ---
 
 ## 🤝 Connect With Me
@@ -142,8 +76,6 @@ HTML/CSS     1 hr 10 mins    █░░░░░░░░░░░░░░░░
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/youruserid)
 
 </div>
-
----
 
 ---
 
